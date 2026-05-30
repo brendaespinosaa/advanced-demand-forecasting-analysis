@@ -1,5 +1,13 @@
 # 📦 Delivery Demand Forecasting
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Demand Forecasting](https://img.shields.io/badge/Demand_Forecasting-1565C0?style=for-the-badge)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-1F4E79?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-6A1B9A?style=for-the-badge)
+
 ## 📖 Overview
 
 This project focuses on predicting delivery demand using Machine Learning techniques and business-related variables such as weather conditions, promotions, holidays, and traffic data.
